@@ -28,4 +28,5 @@ This tutorial covers some Machine Learning basics with video presentations and c
 **Code Implementation:** [Forward/Backward Propagation](https://github.com/TechX-NLP-CV/Machine_Learning_Tutorial/blob/main/Forward_backward_propagation.ipynb)<br />
 This notebook illustrates the Forward/Backward Propagation using CBOW(Continuous bag-of-words) model, which is a word embedding model learns to predict the center word given some context words. 
 
-4. Linear regression, Logistic regression
+4. Logistic regression
+**Code Implementation:** [Logistic regression](https://github.com/TechX-NLP-CV/Machine_Learning_Tutorial/blob/main/Logistic_Regression/Logistic_Regression.ipynb)
